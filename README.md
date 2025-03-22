@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Asad-Fahim
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Programing 
 - 🌱 I’m currently learning Frontend Development
-- 💞️ I’m looking to collaborate with a developer who can clear my doughts about fronted Developer
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate with a developer who can clear my doughts about Fronted Web Development 
+- 📫 How to reach me : asadfahim8755@gmail.com 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Errors mean that you are trying
 
